@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'jujutsu-kaisen';
+  src: url('/fonts/Jujutsu-Kaisen.ttf');
+}
+
+@font-face {
+  font-family: 'jetbrains-mono';
+  src: url('/fonts/JetBrainsMono-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'wild-words';
+  src: url('/fonts/CC-Wild-Words-Roman.ttf');
+}
