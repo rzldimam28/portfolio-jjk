@@ -1,5 +1,12 @@
 # Jujutsu Kaisen based Portfolio Website
 
+## Sneakpeak:
+- Web
+![SneakPeak Web](./src/assets/sneakpeak_web.png "SneakPeak Web")
+
+- Mobile
+![SneakPeak Web](./src/assets/sneakpeak_mobile.png "SneakPeak Web")
+
 Hello, this is repository for my personal portfolio web^^
 
 After deciding to learn Back-End Development for over 1 year, I chose to expand my Front-End skills by learning how to build web with React + TailwindCSS.
